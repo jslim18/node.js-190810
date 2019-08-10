@@ -5,18 +5,6 @@ Apps Script API
 :npm install
 
 
-:touch .env
------START-----
-INFURA_ACCESS_TOKEN=secret_here
-
-'# Rinkeby Testnet
-WALLET_ADDRESS=secret_here
-WALLET_PRIVATE_KEY=secret_here
-
-'# Destination
-DESTINATION_WALLET_ADDRESS=secret_here
------END-----
-
-
+file: .env
 file: package.json (dependency)
 file: index.js
