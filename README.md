@@ -9,11 +9,11 @@ Apps Script API
 -----START-----
 INFURA_ACCESS_TOKEN=secret_here
 
-### Rinkeby Testnet
+'# Rinkeby Testnet
 WALLET_ADDRESS=secret_here
 WALLET_PRIVATE_KEY=secret_here
 
-#### Destination
+'# Destination
 DESTINATION_WALLET_ADDRESS=secret_here
 -----END-----
 
