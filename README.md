@@ -15,3 +15,6 @@ file: package.json (dependency)
 
 file: index.js
 
+---
+
+ref: https://ethereum.stackexchange.com/questions/3720/how-do-i-get-the-raw-private-key-from-my-mist-keystore-file
